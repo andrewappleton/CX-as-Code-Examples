@@ -1,0 +1,21 @@
+﻿id,country,code,acw_timeout_ms,auto_answer_only,enable_transcription
+1,Belgium,BE,80000,false,true
+2,Canada,CA,80000,false,true
+3,Denmark,DK,40000,false,false
+4,Finland,FI,40000,true,true
+5,France,FR,30000,true,true
+6,Germany,DE,30000,true,true
+7,Greece,GR,30000,false,false
+8,Hong Kong,HK,30000,false,false
+9,Iceland,IS,30000,true,true
+10,Ireland,IE,30000,true,false
+11,Italy,IT,30000,true,false
+12,Netherlands,NL,30000,true,true
+13,Norway,NO,30000,true,true
+14,Spain,ES,80000,false,true
+15,Sweden,SE,30000,true,true
+16,Switzerland,CH,80000,false,false
+17,Turkey,TR,30000,false,true
+18,Ukraine,UA,40000,true,true
+19,United Kingdom of Great Britain and Northern Ireland,GB,30000,false,true
+20,United States of America,US,40000,true,true

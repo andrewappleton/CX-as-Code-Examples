@@ -1,0 +1,1 @@
+gc routing queues list -a --profile <profile-name> --transform ./queue-transform.tmpl
